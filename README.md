@@ -1,6 +1,5 @@
 ## Multimodal Hate Speech Detection with Explainability Using LIME
-
-[[https://github.com/fayas1234/Multimodal-Hate-Speech-Detection-with-Explainability-Using-LIME/edit/main/README.md](https://github.com/fayas1234/Multimodal-Hate-Speech-Detection-with-Explainability-Using-LIME/tree/main)](https://github.com/fayas1234/Multimodal-Hate-Speech-Detection-with-Explainability-Using-LIME)
+https://github.com/fayas1234/Multimodal-Hate-Speech-Detection-with-Explainability-Using-LIME
 
 ### Datasets
 
