@@ -12,6 +12,7 @@
 ### Already Trained Models
 
 Just need to run using the codes provided in the run folder.
+Upload the models in google drive and run the codes in run folder which has both codes to run phase 1 and phase 2.
 
 - BERT: [Download Link](https://drive.google.com/file/d/1-JTPa_-WnCnfgXxr1p7CDFyA0rTNFQjU/view?usp=drive_link)
 - Stacked Bi-LSTM: [Download Link](https://drive.google.com/file/d/10ZqFrqRwcGinMpFONgr1A_QrScNshElu/view?usp=sharing)
